@@ -1,0 +1,19 @@
+library {
+    display: grid;
+    background-color: blanchedalmond;
+    margin: 30pt;
+    padding: 10pt;
+    width: 90%;
+    font-size: 16pt;
+}
+
+
+book {
+    background-color: lightcoral;
+    border: 2px black solid;
+    display: flex;
+}
+
+chapter {
+    display: grid;
+}

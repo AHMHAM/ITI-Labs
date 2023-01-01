@@ -1,0 +1,26 @@
+employee_list {}
+
+employee {
+    display: block;
+    background-color: blanchedalmond;
+    margin: 30pt;
+    padding: 30pt;
+    width: 70%;
+    font-size: 16pt;
+}
+
+name {}
+
+phones_list {
+    display: grid;
+}
+
+phone[type="work"] {
+    color: brown;
+}
+
+address_list {
+    display: grid;
+}
+
+email {}

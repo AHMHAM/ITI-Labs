@@ -1,0 +1,74 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="employees.css"?>
+<employees_list>
+	<employee>
+		<name>Khaled Ahmed Yehia</name>
+		<phones_list>
+			<phone type="home">01360708430</phone>
+			<phone type="work">01911012889</phone>
+			<phone type="mobile">01711196248</phone>
+		</phones_list>
+		<address_list>
+			<address>
+				<building_num>160</building_num>
+				<street>Ahmed Shawky St</street>
+				<region>Roushdy</region>
+				<city>Alexandria</city>
+				<country>Egypt</country>
+			</address>
+			<address>
+				<building_num>24</building_num>
+				<street>Abbas El Akkad St.</street>
+				<region>NASR CITY</region>
+				<city>Cairo</city>
+				<country>Egypt</country>
+			</address>
+			<address>
+				<building_num>99</building_num>
+				<street>Dakahleya St.</street>
+				<region>El-Arab</region>
+				<city>Port Said</city>
+				<country>Egypt</country>
+			</address>
+		</address_list>
+		<email>ulsvczalmi@gmail.com</email>
+	</employee>
+
+	<employee>
+		<name>Mahmoud Ibrahim Rodwan</name>
+		<phones_list>
+			<phone type="mobile">01583721602</phone>
+		</phones_list>
+		<address_list>
+			<address>
+				<building_num>43</building_num>
+				<street>Nazih Khalifa St.</street>
+				<region>Merryland</region>
+				<city>Heliopolis</city>
+				<country>Egypt</country>
+			</address>
+		</address_list>
+		<email>sanjurjo@yahoo.com</email>
+	</employee>
+</employees_list>
+
+<!--
+	<employee>
+		<name></name>
+		<phones_list>
+			<phone type="home"></phone>
+			<phone type="work"></phone>
+			<phone type="mobile"></phone>
+		</phones_list>
+		<address_list>
+			<address>
+				<building_num></building_num>
+				<street></street>
+				<region></region>
+				<city></city>
+				<country></country>
+			</address>
+		</address_list>
+		<email></email>
+	</employee>
+ -->

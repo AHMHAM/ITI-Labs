@@ -1,0 +1,92 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="library.css"?>
+<library>
+	<location>1 Gamal Abdel Nasser St., Corniche El Nil</location>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+	<librarian>Ziad Ahmed Mohamed</librarian>
+	<books>
+		<book>
+			<title>A Short History of Nearly Everything</title>
+			<isbn>0-7679-0817-1</isbn>
+			<author>Bill Bryson</author>
+			<preface>A Short History of Nearly Everything is a popular science book that explains some areas of science, using easily accessible language that appeals more to the general public than many other books dedicated to the subject.</preface>
+			<parts>
+				<part>
+				<title>How to Build a Universe</title>
+				<chapters>
+					<chapter>
+						<element>Lost in the Cosmos</element>
+						<summary>Bryson explains how a universe like ours is formed: all of the matter in existence is compressed into a tiny, dimensionless area and then undergoes a rapid expansion (or “Big Bang”), creating all the space that exists as it spreads out.</summary>
+						<section>
+							<p>Bryson goes on to emphasize just how vast the universe is and how distant Earth is from other celestial bodies</p>
+							<p>There are hundreds of billions of other galaxies in addition to the hundreds of billions of stars in the Milky Way</p>
+							<p>Bryson also notes that what we perceive when we stargaze is actually an image of the past since the vastness of the cosmos means it takes light years for the light from stars to reach Earth</p>
+						</section>
+					</chapter>
+					<chapter>
+						<element>The Size of the Earth</element>
+						<summary>Newton’s discoveries trigger several challenging expeditions around the globe to determine Earth’s size, precise shape, mass, and location in the solar system.</summary>
+						<section>
+							<p>Bryson goes on to discuss geology, which originates in the 1700s with James Hutton. Hutton suspects that mountains are formed by land masses crashing into each other.</p>
+							<p>People start digging up dinosaur bones, although it takes a while for scientists to figure out what they are and to realize that species—like the dinosaurs—go extinct. </p>
+						</section>
+					</chapter>
+				</chapters>
+				</part>
+			</parts>
+		</book>
+				<book>
+			<title>A Short History of Nearly Everything</title>
+			<isbn>0-7679-0817-1</isbn>
+			<author>Bill Bryson</author>
+			<preface>A Short History of Nearly Everything is a popular science book that explains some areas of science, using easily accessible language that appeals more to the general public than many other books dedicated to the subject.</preface>
+			<parts>
+				<part>
+				<title>How to Build a Universe</title>
+				<chapters>
+					<chapter>
+						<element>Lost in the Cosmos</element>
+						<summary>Bryson explains how a universe like ours is formed: all of the matter in existence is compressed into a tiny, dimensionless area and then undergoes a rapid expansion (or “Big Bang”), creating all the space that exists as it spreads out.</summary>
+						<section>
+							<p>Bryson goes on to emphasize just how vast the universe is and how distant Earth is from other celestial bodies</p>
+							<p>There are hundreds of billions of other galaxies in addition to the hundreds of billions of stars in the Milky Way</p>
+							<p>Bryson also notes that what we perceive when we stargaze is actually an image of the past since the vastness of the cosmos means it takes light years for the light from stars to reach Earth</p>
+						</section>
+					</chapter>
+					<chapter>
+						<element>The Size of the Earth</element>
+						<summary>Newton’s discoveries trigger several challenging expeditions around the globe to determine Earth’s size, precise shape, mass, and location in the solar system.</summary>
+						<section>
+							<p>Bryson goes on to discuss geology, which originates in the 1700s with James Hutton. Hutton suspects that mountains are formed by land masses crashing into each other.</p>
+							<p>People start digging up dinosaur bones, although it takes a while for scientists to figure out what they are and to realize that species—like the dinosaurs—go extinct. </p>
+						</section>
+					</chapter>
+				</chapters>
+				</part>
+			</parts>
+		</book>
+	</books>
+</library>
+
+<!--
+		<book>
+			<title></title>
+			<isbn></isbn>
+			<author></author>
+			<preface></preface>
+			<parts>
+				<part>
+				<title></title>
+				<chapters>
+					<chapter>
+						<element></element>
+						<summary></summary>
+						<section>
+							<p></p>
+						</section>
+					</chapter>
+				</chapters>
+				</part>
+			</parts>
+		</book>
+-->
