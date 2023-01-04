@@ -1,0 +1,18 @@
+<employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schemaXSD.xsd">
+	<employee>
+		<name/>
+		<phones>
+			<phone type=""/>
+		</phones>
+		<addresses>
+			<address>
+				<buildingNumber/>
+				<street/>
+				<region/>
+				<city/>
+				<country/>
+			</address>
+		</addresses>
+		<email/>
+	</employee>
+</employees>
