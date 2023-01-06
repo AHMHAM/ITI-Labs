@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="employees.xsl"?>
+<employees>
+	<employee>
+		<name>Khaled Ahmed Yehia</name>
+		<phones>
+			<phone type="home">01360708430</phone>
+			<phone type="work">01911012889</phone>
+			<phone type="mobile">01711196248</phone>
+		</phones>
+		<addresses>
+			<address>
+				<buildingNumber>160</buildingNumber>
+				<street>Ahmed Shawky St</street>
+				<region>Roushdy</region>
+				<city>Alexandria</city>
+				<country>Egypt</country>
+			</address>
+			<address>
+				<buildingNumber>24</buildingNumber>
+				<street>Abbas El Akkad St.</street>
+				<region>NASR CITY</region>
+				<city>Cairo</city>
+				<country>Egypt</country>
+			</address>
+			<address>
+				<buildingNumber>99</buildingNumber>
+				<street>Dakahleya St.</street>
+				<region>El-Arab</region>
+				<city>Port Said</city>
+				<country>Egypt</country>
+			</address>
+		</addresses>
+		<email>ulsvczalmi@gmail.com</email>
+	</employee>
+
+	<employee>
+		<name>Mahmoud Ibrahim Rodwan</name>
+		<phones>
+			<phone type="mobile">01583721602</phone>
+		</phones>
+		<addresses>
+			<address>
+				<buildingNumber>43</buildingNumber>
+				<street>Nazih Khalifa St.</street>
+				<region>Merryland</region>
+				<city>Heliopolis</city>
+				<country>Egypt</country>
+			</address>
+		</addresses>
+		<email>sanjurjo@yahoo.com</email>
+	</employee>
+	
+	<employee>
+		<name>Ziad Tarek Ramah</name>
+		<phones>
+			<phone type="work">01943971023</phone>
+		</phones>
+		<addresses>
+			<address>
+				<buildingNumber>22</buildingNumber>
+				<street>Safar Pasha St</street>
+				<region>BAHARY</region>
+				<city>Alexandria</city>
+				<country>Egypt</country>
+			</address>
+		</addresses>
+		<email>nzozha@gmail.com</email>
+	</employee>
+</employees>
